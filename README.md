@@ -4,7 +4,8 @@
 
 Внимание! Для работы скрипта необходимы API-ключи Yandex. Dictionary и Yandex.Translator (платно). Инструкции для их получения находятся по ссылкам:
 
-https://yandex.ru/dev/dictionary/ \n
+https://yandex.ru/dev/dictionary/
+
 https://cloud.yandex.ru/docs/translate/
 
 Строки кода, в которых необходимо ввести свои данные: 551, 593, 774, 784.
