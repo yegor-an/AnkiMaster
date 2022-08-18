@@ -32,7 +32,7 @@ https://cloud.yandex.ru/docs/translate/
 
 ![изображение](https://user-images.githubusercontent.com/71543252/185357058-b2db4d59-77aa-4c9a-ac36-81804c627319.png)
 
-6. Далее появляются менюшка, и передо мной предстает свобода выбора:
+6. Далее появляются менюшка, и перед нами предстает свобода выбора:
 
 ![изображение](https://user-images.githubusercontent.com/71543252/185353855-41ea881f-5fb9-41da-bc08-79ea729499e0.png)
 
